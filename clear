@@ -1,0 +1,28 @@
+[1mdiff --git a/aa.txt b/aa.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..0213cce[m
+[1m--- /dev/null[m
+[1m+++ b/aa.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32m第一章 桃园结义[m
+[1mdiff --git a/bb.txt b/bb.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..3178333[m
+[1m--- /dev/null[m
+[1m+++ b/bb.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32m第一章 武松打虎[m
+[1mdiff --git a/cc.txt b/cc.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..81ad276[m
+[1m--- /dev/null[m
+[1m+++ b/cc.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32m第一章 贾宝玉和林黛玉[m
+[1mdiff --git a/xyj.txt b/xyj.txt[m
+[1mindex b87de5e..8e69858 100644[m
+[1m--- a/xyj.txt[m
+[1m+++ b/xyj.txt[m
+[36m@@ -1 +1,2 @@[m
+ 阿阿阿阿阿阿阿阿阿阿阿[m
+[32m+[m[32m第二章 生生世世[m
